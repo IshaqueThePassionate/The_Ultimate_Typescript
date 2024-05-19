@@ -55,30 +55,3 @@
 ## Step 6: Make it a Node.js Project
 
 1. In the terminal, create a `package.json` file with the command: `npm init -y`
-
-<br/>
-
-## Step 7: Write TypeScript Code
-
-1. Create a new TypeScript file in your project directory (e.g., `index.ts`).
-2. Write your TypeScript code in this file
-
-
-```bash
-   console.log("This is my first line of code");   
-```
-<br/>
-
-## Step 8: Transpile TypeScript to JavaScript
-
-1. In the terminal, run the command: `tsc`
-2. this `tsc` command will transplie the typescript code into the javascript code.
-
-<br/>
-
-## Step 9: Run Transpiled JavaScript
-
-
-1. After transpilation, you'll find a corresponding JavaScript file in your project directory.
-2. Run the JavaScript file using Node.js with the command: `node index.js`
-3. You should see the output: `This is my first line of code`
